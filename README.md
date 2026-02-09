@@ -32,5 +32,19 @@
 
 ---
 
+## ⚡ Comment exécuter les projets
+
+1. **SmartLife Budget Analyzer**  
+   - Téléchargez ou clonez le projet : [SmartLife Budget Analyzer](https://github.com/Will3007/smartlife-budget-analyzer)  
+   - Installez les dépendances : `pip install pandas`  
+   - Lancez le projet : `python src/analyzer.py`  
+
+2. **Annual Sales & Expense Dashboard**  
+   - Téléchargez ou clonez le projet : [Annual Dashboard](https://github.com/Will3007/annual-dashboard)  
+   - Installez les dépendances : `pip install pandas matplotlib`  
+   - Lancez le projet : `python src/annual_dashboard.py`  
+
+---
+
 ## 📫 Contact
 - Email : willywilliam933@gmail.com
