@@ -32,19 +32,25 @@
 
 ---
 
-## ⚡ Comment exécuter les projets
+## ⚡ Comment exécuter les projets (sans Bash)
 
 1. **SmartLife Budget Analyzer**  
-   - Téléchargez ou clonez le projet : [SmartLife Budget Analyzer](https://github.com/Will3007/smartlife-budget-analyzer)  
-   - Installez les dépendances : `pip install pandas`  
-   - Lancez le projet : `python src/analyzer.py`  
+   - Téléchargez le projet : [SmartLife Budget Analyzer](https://github.com/Will3007/smartlife-budget-analyzer)  
+   - Ouvrez le dossier `src` dans **VS Code** ou **Jupyter Notebook**  
+   - Ouvrez `analyzer.py` et cliquez sur **Run** ou **Exécuter le script**  
+   - Le programme affichera le rapport directement
 
 2. **Annual Sales & Expense Dashboard**  
-   - Téléchargez ou clonez le projet : [Annual Dashboard](https://github.com/Will3007/annual-dashboard)  
-   - Installez les dépendances : `pip install pandas matplotlib`  
-   - Lancez le projet : `python src/annual_dashboard.py`  
+   - Téléchargez le projet : [Annual Dashboard](https://github.com/Will3007/annual-dashboard)  
+   - Ouvrez le dossier `src` dans **VS Code** ou **Jupyter Notebook**  
+   - Ouvrez `annual_dashboard.py` et lancez-le  
+   - Les visualisations apparaîtront automatiquement
+
+> Cette méthode permet à tout le monde d’exécuter vos projets facilement, sans connaître les commandes Git ou Bash.
 
 ---
 
 ## 📫 Contact
-- Email : willywilliam933@gmail.com
+- Email : willywilliam933@gmail.com  
+- LinkedIn : [Votre profil LinkedIn](https://www.linkedin.com/in/votreprofil)  
+- GitHub : [https://github.com/Will3007](https://github.com/Will3007)
