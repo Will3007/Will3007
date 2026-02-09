@@ -1,96 +1,34 @@
-# 👋 Menelick William Patrick Alou
+# 👋 Bonjour, je suis Menelick William Patrick Alou
 
-**Programme :** Sciences des données appliquées  
-**Compétences principales :** Python, Pandas, Matplotlib  
-**Email :** willywilliam933@gmail.com  
+**Python | Pandas | Matplotlib**
 
----
-
-## 🚀 Bio
-
-Passionné par l'analyse de données et la visualisation, je crée des projets concrets qui transforment des données brutes en insights clairs et exploitables. Mon objectif est de démontrer mes compétences en Python et en gestion de projets de données tout en produisant des visualisations pertinentes.
+🎓 **Programme :** Sciences des données appliquées  
+💼 **Passionné par l'analyse de données et la visualisation**
 
 ---
 
-## 📂 Projets
+## 🚀 Mes Projets
 
 ### 1️⃣ SmartLife Budget Analyzer
-- **Description :** Analyse des dépenses personnelles et génération d’un rapport clair avec insights par catégorie.  
-- **Technologies :** Python, CSV, Git/GitHub  
-- **Fonctionnalités :**
-  - Lecture d’un fichier CSV de dépenses
-  - Calcul des dépenses totales et par catégorie
-  - Génération d’un rapport texte avec insights  
-- **Lien vers le projet :** [SmartLife Budget Analyzer](https://github.com/Will3007/smartlife-budget-analyzer)
-
----
+- Analyse des dépenses personnelles
+- Génère un rapport clair avec insights par catégorie
+- Technologies : Python, CSV, Git/GitHub  
+![SmartLife Budget Analyzer](https://github.com/Will3007/Will3007/raw/main/A_GitHub_profile_README_file_for_Menelick_William_.png)
 
 ### 2️⃣ Annual Sales & Expense Dashboard
-- **Description :** Analyse complète des revenus et dépenses sur 12 mois avec visualisations graphiques.  
-- **Technologies :** Python, Pandas, Matplotlib  
-- **Fonctionnalités :**
-  - Calcul des revenus et dépenses mensuels
-  - Calcul du solde mensuel
-  - Graphique double :
-    1. Courbes revenus et dépenses par mois
-    2. Camembert des dépenses par catégorie
-- **Lien vers le projet :** [Annual Sales & Expense Dashboard](https://github.com/Will3007/annual-dashboard)
+- Analyse des revenus et dépenses sur 12 mois
+- Visualisations graphiques : courbes et camembert
+- Technologies : Python, Pandas, Matplotlib  
+![Annual Dashboard](https://github.com/Will3007/Will3007/raw/main/A_screenshot_of_Menelick_William_Patrick_Alou's_Gi.png)
 
 ---
 
-## 🛠 Compétences
-
+## 💡 Compétences
 - Analyse et visualisation de données
 - Python avancé : Pandas, Matplotlib
 - Structuration de projets et documentation claire
-- Création de rapports et dashboards interactifs
 
 ---
 
-## ⚡ Instructions pour exécuter les projets
-
-### SmartLife Budget Analyzer
-```bash
-git clone https://github.com/Will3007/smartlife-budget-analyzer.git
-cd smartlife-budget-analyzer
-pip install pandas
-python src/analyzer.py
-Annual Sales & Expense Dashboard
-git clone https://github.com/Will3007/annual-dashboard.git
-cd annual-dashboard
-pip install pandas matplotlib
-python src/annual_dashboard.py
-📌 Résultats attendus
-
-Rapport texte :
-
-Dépenses totales et par catégorie
-
-Revenus par mois
-
-Solde mensuel
-
-Graphiques :
-
-Courbes revenus vs dépenses par mois
-
-Camembert des dépenses par catégorie
-git clone https://github.com/Will3007/annual-dashboard.git
-cd annual-dashboard
-pip install pandas matplotlib
-python src/annual_dashboard.py
-📌 Résultats attendus
-
-Rapport texte :
-
-Dépenses totales et par catégorie
-
-Revenus par mois
-
-Solde mensuel
-
-Graphiques :
-
-Courbes revenus vs dépenses par mois
-
-Camembert des dépenses par catégorie
+## 📧 Contact
+- Email : willywilliam933@gmail.com
