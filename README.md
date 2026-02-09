@@ -15,15 +15,30 @@
 - Analyse des **dépenses personnelles**  
 - Génère un **rapport clair** avec insights par catégorie  
 - Technologies : Python, CSV, Git/GitHub  
-- ![SmartLife Demo](https://raw.githubusercontent.com/Will3007/smartlife-budget-analyzer/main/demo.gif)  <!-- tu peux créer un GIF simple du script si tu veux -->
 - [Voir le projet](https://github.com/Will3007/smartlife-budget-analyzer)  
+
+**Exemple de sortie :**  
+
+
+
+![SmartLife Screenshot](https://via.placeholder.com/600x300.png?text=SmartLife+Budget+Analyzer)
+
+---
 
 ### 2️⃣ Annual Sales & Expense Dashboard
 - Analyse **revenus et dépenses sur 12 mois**  
 - Visualisations graphiques : **courbes et camembert**  
 - Technologies : Python, Pandas, Matplotlib  
-- ![Annual Dashboard Demo](https://raw.githubusercontent.com/Will3007/annual-dashboard/main/demo.gif) <!-- idem GIF ou image du graphique -->
 - [Voir le projet](https://github.com/Will3007/annual-dashboard)  
+
+**Exemple de sortie :**  
+
+
+
+
+
+
+![Annual Dashboard Screenshot](https://via.placeholder.com/600x300.png?text=Annual+Dashboard)
 
 ---
 
@@ -39,3 +54,4 @@
 
 ---
 
+> 🔗 Tu peux remplacer les images placeholder par de vrais GIF ou screenshots pour montrer les scripts en action.
