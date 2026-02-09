@@ -17,28 +17,11 @@
 - Technologies : Python, CSV, Git/GitHub  
 - [Voir le projet](https://github.com/Will3007/smartlife-budget-analyzer)  
 
-**Exemple de sortie :**  
-
-
-
-![SmartLife Screenshot](https://via.placeholder.com/600x300.png?text=SmartLife+Budget+Analyzer)
-
----
-
 ### 2️⃣ Annual Sales & Expense Dashboard
 - Analyse **revenus et dépenses sur 12 mois**  
 - Visualisations graphiques : **courbes et camembert**  
 - Technologies : Python, Pandas, Matplotlib  
 - [Voir le projet](https://github.com/Will3007/annual-dashboard)  
-
-**Exemple de sortie :**  
-
-
-
-
-
-
-![Annual Dashboard Screenshot](https://via.placeholder.com/600x300.png?text=Annual+Dashboard)
 
 ---
 
@@ -54,4 +37,4 @@
 
 ---
 
-> 🔗 Tu peux remplacer les images placeholder par de vrais GIF ou screenshots pour montrer les scripts en action.
+> 🔗 Pour chaque projet, tu peux ajouter un **GIF ou screenshot** de ton script en action pour rendre le portfolio encore plus vivant.
