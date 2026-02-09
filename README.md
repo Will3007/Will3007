@@ -75,3 +75,22 @@ Graphiques :
 Courbes revenus vs dépenses par mois
 
 Camembert des dépenses par catégorie
+git clone https://github.com/Will3007/annual-dashboard.git
+cd annual-dashboard
+pip install pandas matplotlib
+python src/annual_dashboard.py
+📌 Résultats attendus
+
+Rapport texte :
+
+Dépenses totales et par catégorie
+
+Revenus par mois
+
+Solde mensuel
+
+Graphiques :
+
+Courbes revenus vs dépenses par mois
+
+Camembert des dépenses par catégorie
