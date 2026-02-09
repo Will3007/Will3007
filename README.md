@@ -37,4 +37,4 @@
 
 ---
 
-> 🔗 Pour chaque projet, tu peux ajouter un **GIF ou screenshot** de ton script en action pour rendre le portfolio encore plus vivant.
+
