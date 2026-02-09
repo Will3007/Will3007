@@ -51,8 +51,14 @@ Passionné par l'analyse de données et la visualisation, je crée des projets c
 
 1. **Cloner le projet :**
 ```bash
-git clone <lien-du-projet>
-cd <nom-du-projet>
+# Pour SmartLife Budget Analyzer
+git clone https://github.com/Will3007/smartlife-budget-analyzer.git
+cd smartlife-budget-analyzer
+pip install pandas
+python src/analyzer.py
+
+# Pour Annual Sales & Expense Dashboard
+git clone https://github.com/Will3007/annual-dashboard.git
+cd annual-dashboard
 pip install pandas matplotlib
-python src/analyzer.py  # Pour SmartLife Budget Analyzer
-python src/annual_dashboard.py  # Pour Annual Sales & Expense Dashboard
+python src/annual_dashboard.py
