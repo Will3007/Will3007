@@ -39,4 +39,3 @@
 
 ---
 
-> 🔗 Pour chaque projet, tu peux créer un **GIF ou screenshot** de ton script en action. Ça rend ton portfolio beaucoup plus vivant et impressionnant pour ton prof !
